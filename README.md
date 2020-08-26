@@ -1,2 +1,2 @@
 # Marketing-Metrics
-**List of Important Marketing Metrics For Business Decision Makers**
+**List of important Marketing Metrics For Business Decision Makers**
